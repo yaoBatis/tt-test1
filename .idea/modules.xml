@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tt-common/tt-common.iml" filepath="$PROJECT_DIR$/tt-common/tt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger-dao/tt-manger-dao.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger-dao/tt-manger-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger-interface/tt-manger-interface.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger-interface/tt-manger-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger-pojo/tt-manger-pojo.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger-pojo/tt-manger-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger-service/tt-manger-service.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger-service/tt-manger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manger/tt-manger-web/tt-manger-web.iml" filepath="$PROJECT_DIR$/tt-manger/tt-manger-web/tt-manger-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-parent/tt-parent.iml" filepath="$PROJECT_DIR$/tt-parent/tt-parent.iml" />
+    </modules>
+  </component>
+</project>

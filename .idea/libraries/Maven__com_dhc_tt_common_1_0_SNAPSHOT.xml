@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.dhc:tt-common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/maven3.3.9/repo/com/dhc/tt-common/1.0-SNAPSHOT/tt-common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/tt-common/tt-common-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/maven3.3.9/repo/com/dhc/tt-common/1.0-SNAPSHOT/tt-common-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tt-common/tt-common-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/maven3.3.9/repo/com/dhc/tt-common/1.0-SNAPSHOT/tt-common-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
